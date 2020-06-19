@@ -20,7 +20,7 @@ $ cd <folder>
 ```
 
 ```
-$ git clone git@github.com:lmaldonadoch/SQL_sqlzoo.git
+$ git clone git@github.com:MFahadUmer/SQLZOO.git
 ```
 
 ## Author
@@ -35,7 +35,7 @@ $ git clone git@github.com:lmaldonadoch/SQL_sqlzoo.git
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ferbaco86/Tic-Tac-Toe/issues).
+Feel free to check the [issues page](https://github.com/MFahadUmer/SQLZOO/issues).
 
 ## Show your support
 
